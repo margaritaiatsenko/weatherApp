@@ -57,3 +57,8 @@ button {
   background-color: #28a745;
   color: white;
 }
+footer {
+  text-align: center;
+  font-family: "Comic Neue", cursive;
+  font-size: 14px;
+}
