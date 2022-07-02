@@ -1,0 +1,59 @@
+body {
+  padding: 40px 400px;
+  width: 100%;
+  font-family: "Comic Neue", cursive;
+}
+.card-title {
+  color: #016fc5;
+  font-size: 40px;
+  font-family: "Comic Neue", cursive;
+  font-weight: 600;
+}
+.card-body {
+  padding: 20;
+}
+.card-subtitle {
+  color: #016fc5;
+  font-size: 20px;
+  font-family: "Comic Neue", cursive;
+}
+.card-text {
+  color: #44a5f5;
+  font-family: "Comic Neue", cursive;
+  font-size: 18px;
+  text-align: left;
+}
+.colOne {
+  color: #44a5f5;
+  font-family: "Comic Neue", cursive;
+  font-size: 60px;
+  text-align: left;
+}
+
+.colTwo {
+  color: #7c7c7c;
+  font-family: "Comic Neue", cursive;
+  font-size: 18px;
+  font-weight: 300;
+}
+.search {
+  text-align: right;
+  font-family: "Comic Neue", cursive;
+  font-size: 19px;
+  font-weight: 500;
+  padding-top: 7%;
+}
+.degree {
+  color: #44a5f5;
+  font-family: "Comic Neue", cursive;
+  font-size: 25px;
+  text-align: left;
+}
+.submitbutton {
+  background-color: #0168d9;
+  color: white;
+}
+button {
+  background-color: #28a745;
+  color: white;
+}
